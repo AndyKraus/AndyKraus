@@ -6,5 +6,3 @@
 ## 👨‍💻 Languages & Frameworks
 
 [![My Skills](https://skillicons.dev/icons?i=ts,react,tailwind,angular,js,html,css,nestjs,nodejs,rabbitmq,dotnet,cs,express,docker,aws,kubernetes,nginx,linux,mongodb,redis)](https://skillicons.dev) and more ..
-
-Check out my [portfolio website](https://andreaskraus.dev) for a more complete list
